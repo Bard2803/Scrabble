@@ -1,1 +1,1 @@
-Srabble game
+Scrabble game
